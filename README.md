@@ -1,6 +1,6 @@
 ## JJ
 
-I use Arch Linux and NeoVim btw. Maybe switching to Gentoo and Emacs soon
+I use Arch Linux and NeoVim btw. Maybe switching to Gentoo and Emacs soon 🥱🤓🤮
 
 <!--
 **Nauseous-Spartan/Nauseous-Spartan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
